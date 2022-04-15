@@ -1,3 +1,3 @@
 # Existential Graphs Foundation
 
-A description of this package.
+Foundational data structures and operations that support the representation of existential graphs
